@@ -24,4 +24,4 @@ docker run ubuntu echo "Hello Pathnex"
 
 # Docker File
 FROM ubuntu:22.04
-CMD ["echo", "Hello Pathnex"]
+CMD ["echo", "Hello Pathnex"].
