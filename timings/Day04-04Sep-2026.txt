@@ -1,0 +1,3 @@
+4 hours - Linux video.
+3 hours - Practice of umask, find, awk, top, zip commands.
+1 hour - Communication skill.
