@@ -1,0 +1,3 @@
+5 hours - Linux video.
+3 hours - Practice of ssh, disk addition, lvm, user management, service management, cronjob etc.
+1 hour - Communication skill.
