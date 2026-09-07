@@ -1,0 +1,3 @@
+4 hours - AWS Video.
+3 hours - Learned EC2, IAM, S3.
+1 hour - Communication skill.
