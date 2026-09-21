@@ -1,0 +1,2 @@
+3 hours - Kubernetes Argo CD Practical.
+1 hour - Communication skill.
