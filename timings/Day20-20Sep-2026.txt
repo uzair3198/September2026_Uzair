@@ -1,0 +1,3 @@
+4 hours - Terraform Video.
+3 hours - Terraform Practical.
+1 hour - Communication skill.
