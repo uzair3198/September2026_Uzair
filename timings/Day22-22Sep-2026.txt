@@ -1,0 +1,3 @@
+4 hours - Ansible Video.
+3 hours - Ansible Practical.
+1 hour - Communication skill.
